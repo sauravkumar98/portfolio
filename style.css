@@ -302,19 +302,18 @@
  }
 
  .js-bar {
-   width: 70%;
+   width: 50%;
  }
 
  .react-bar {
-   width: 70%;
+   width: 50%;
  }
-
- .laravel-bar {
-  width: 50%;
-}
-
 .cpp-bar {
   width: 80%;
+}
+
+ .python-bar {
+  width: 50%;
 }
 
  .projects-content {
