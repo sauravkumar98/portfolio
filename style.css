@@ -305,15 +305,12 @@
    width: 50%;
  }
 
- .react-bar {
-   width: 50%;
- }
 .cpp-bar {
-  width: 80%;
+  width: 60%;
 }
 
- .python-bar {
-  width: 50%;
+ .java-bar {
+  width: 70%;
 }
 
  .projects-content {
