@@ -302,15 +302,17 @@
  }
 
  .js-bar {
-   width: 60%;
+   width: 80%;
  }
-
-.cpp-bar {
-  width: 60%;
-}
 
  .java-bar {
   width: 70%;
+}
+.python-bar {
+  width: 70%;
+}
+.sql-bar {
+  width: 80%;
 }
 
  .projects-content {
