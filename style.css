@@ -302,12 +302,20 @@
  }
 
  .js-bar {
-   width: 80%;
+   width: 90%;
  }
  .java-bar {
   width: 70%;
 }
+
+ .react-bar {
+  width: 80%;
+ }
+
 .python-bar {
+  width: 80%;
+}
+.django-bar {
   width: 70%;
 }
 .sql-bar {
